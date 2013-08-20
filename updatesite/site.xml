@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.lightuml_1.2.7.2.jar" id="org.lightuml" version="1.2.7.2">
+      <category name="org.lightuml"/>
+   </feature>
+   <category-def name="org.lightuml" label="LightUML">
+      <description>
+         LightUML plugin for eclipse
+      </description>
+   </category-def>
+</site>
